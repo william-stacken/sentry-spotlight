@@ -23,7 +23,7 @@
     ".": {
       "types": "./dist/sentry-spotlight.d.ts",
       "import": "./dist/sentry-spotlight.js",
-      "require": "./dist/sentry-spotlight.umd.cjs"
+      "require": "./dist/sentry-spotlight.iife.js"
     }
   },
   "devDependencies": {
