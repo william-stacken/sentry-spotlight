@@ -9,7 +9,7 @@ lerna-debug.log*
 
 node_modules
 out
-dist
+# dist
 dist-bin
 node
 dist-ssr
